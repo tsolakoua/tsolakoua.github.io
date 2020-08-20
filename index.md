@@ -1,4 +1,4 @@
-## Hello World! I am Anna Tsolakou
+## I am Anna Tsolakou
 
 ![title](image.jpg)
 
